@@ -9,4 +9,3 @@ Hi! I'm Maxi, a video editor and motion graphics designer. Here you can find a s
 - ##  Tools
 - Adobe After Effects  
 - Premiere Pro  
-- 
